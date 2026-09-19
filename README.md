@@ -19,6 +19,6 @@ npm run dev
 
 - [x] Brand and responsive design foundation
 - [x] Landing page and dashboard overview
-- [ ] Authentication and persistent workspace data
-- [ ] AI assistant integration
+- [x] Authentication and persistent workspace data
+- [x] AI assistant integration
 - [x] Projects, calendar, and team management modules
