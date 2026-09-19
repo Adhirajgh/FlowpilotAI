@@ -21,4 +21,4 @@ npm run dev
 - [x] Landing page and dashboard overview
 - [ ] Authentication and persistent workspace data
 - [ ] AI assistant integration
-- [ ] Projects, calendar, and team management modules
+- [x] Projects, calendar, and team management modules
